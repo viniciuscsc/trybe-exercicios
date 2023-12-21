@@ -1,3 +1,0 @@
-- Crie uma lista de pessoas
-- Adicione uma imagem que venha de uma URL externa
-- Adicione uma imagem local
